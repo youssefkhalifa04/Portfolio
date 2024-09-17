@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Protest+Guerrilla&display=swap');
+.navbar{
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    height: 80px;
+    border-bottom: 1px solid ;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+
+}
+.nav-menu{
+    display: flex;
+    gap: 30px;
+}
+.nav-menu li {
+    list-style-type: none;
+    user-select: none;
+    cursor: pointer;
+}
+.logo{
+    font-family: "Protest Guerrilla", sans-serif;
+    font-weight: 500;
+    font-size: 40px;
+    color: var(--ligth) ;
+    user-select: none;
+}
+.contact-btn{
+    user-select: none;
+    background: linear-gradient(267deg , #DA7C25 0.36% , #B923E1);
+    padding: 15px 30px;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: .5s linear;
+}
+.contact-btn:hover{
+    transform: scale(1.05);
+}
