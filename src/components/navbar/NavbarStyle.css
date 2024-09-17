@@ -35,6 +35,7 @@
     border-radius: 50px;
     cursor: pointer;
     transition: .5s linear;
+    font-weight: 600;
 }
 .contact-btn:hover{
     transform: scale(1.05);
