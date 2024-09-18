@@ -5,6 +5,7 @@
     border: 1px solid var(--ligth);
     background-size: cover;
     margin-bottom: 50px;
+    user-select: none;
     
 }
 .container{

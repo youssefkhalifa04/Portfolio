@@ -1,0 +1,28 @@
+.design{
+    display: flex;
+    align-items: center;
+    transition: all .5s linear;
+    
+    align-items: center;
+    user-select: none;
+    
+}
+.design:hover{
+    transform: scaleX(1.05);
+}
+
+.new-line{
+    height: 10px;
+    width: 10px;
+    background: linear-gradient(267deg , #DA7C25 0.36% , #B923E1);
+
+    
+}
+.hello{
+    width:660px;
+    user-select: none;
+}
+.hh{
+    width: 120px;
+    user-select: none;
+}

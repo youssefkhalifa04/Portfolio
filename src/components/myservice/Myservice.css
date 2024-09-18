@@ -1,0 +1,11 @@
+h2{
+    font-size: 50px;
+    user-select: none;
+}
+.line2{
+    width: 270px;
+
+}
+section{
+    border: 2px solid red;
+}

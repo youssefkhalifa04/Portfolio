@@ -1,6 +1,7 @@
-
+import {About} from "./components/aboutSection/About"
 import { Navbar } from "./components/navbar/navbar"
-import { Hero } from "./components/hero/hero"
+import { Hero } from "./components/hero/Hero"
+import { Myservice } from "./components/myservice/Myservice"
 function App() {
   
 
@@ -8,6 +9,8 @@ function App() {
     <>
       <Navbar/>
       <Hero/>
+      <About/>
+      <Myservice/>
     </>
   )
 }
