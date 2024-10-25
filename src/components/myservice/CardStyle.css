@@ -1,0 +1,45 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid white;
+    width: 18%;
+    height: 300px;
+    padding-inline: 20px;
+    justify-content: space-around;
+    cursor: pointer;
+    border-radius: 20px;
+    transition: all .15s ease-in-out;
+}
+.card:hover{
+    transform: scale(1.02);
+    border: 2px solid #ff00ff ;
+}
+.arrowbtn{
+    height: 30px;
+}
+.btn2{
+    cursor: pointer;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    padding-inline: 10px;
+    border-radius: 20px;
+    width: 100px;
+    padding: 0px ;
+    height: 60px;
+}
+.title{
+    font-size: 30px;
+    font-weight: 800;
+    background: linear-gradient(270deg, #DF8908 50%, #B415FF 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: arial;
+}
+.text{
+    color: #d4d4d4;
+    font-size: 20px;
+    line-height: 30px;
+    max-width: 300px;
+}
