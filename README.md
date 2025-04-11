@@ -3,12 +3,6 @@
 
 Ce dépôt contient le code source de mon portfolio personnel, développé avec React et Vite. Il présente mes projets, compétences et expériences professionnelles.
 
-## 🌐 Aperçu
-
-![Aperçu du portfolio](chemin/vers/capture.png)
-
-*Note : Remplacez le chemin ci-dessus par le lien vers une capture d'écran de votre portfolio.*
-
 ## 🚀 Fonctionnalités
 
 - Présentation de projets avec descriptions et liens
