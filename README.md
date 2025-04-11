@@ -67,6 +67,3 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus d'i
 Merci aux développeurs et aux ressources open-source qui ont inspiré ce projet.
 
 ---
-
-*Note : N'oubliez pas de remplacer les sections entre crochets par les informations spécifiques à votre projet, telles que le lien vers une capture d'écran et les détails de vos projets.*
-``` 
